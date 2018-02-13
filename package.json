@@ -1,0 +1,37 @@
+{
+  "name": "lab-16-basic-auth",
+  "version": "1.0.0",
+  "description": "![CF](https://camo.githubusercontent.com/70edab54bba80edb7493cad3135e9606781cbb6b/687474703a2f2f692e696d6775722e636f6d2f377635415363382e706e67) 16: Basic Auth ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namgungssi/lab-16-basic-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namgungssi/lab-16-basic-auth/issues"
+  },
+  "homepage": "https://github.com/namgungssi/lab-16-basic-auth#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^4.13.11"
+  },
+  "devDependencies": {
+    "debug": "^3.1.0",
+    "express-debug": "^1.1.1",
+    "express-generator": "^4.15.5",
+    "jest": "^21.2.1",
+    "superagent": "^3.8.2",
+    "supertest": "^3.0.0"
+  }
+}
