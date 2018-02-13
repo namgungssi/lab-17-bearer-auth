@@ -18,11 +18,13 @@
   },
   "homepage": "https://github.com/namgungssi/lab-16-basic-auth#readme",
   "dependencies": {
+    "base-64": "^0.1.0",
     "bcrypt": "^1.0.3",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
+    "http-headers": "^3.0.2",
     "jsonwebtoken": "^8.1.1",
     "mongoose": "^4.13.11"
   },
