@@ -19,7 +19,7 @@
   "homepage": "https://github.com/namgungssi/lab-16-basic-auth#readme",
   "dependencies": {
     "base-64": "^0.1.0",
-    "bcrypt": "latest",
+    "bcrypt": "^1.0.3",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
     "dotenv": "^4.0.0",
@@ -27,7 +27,7 @@
     "express": "^4.16.2",
     "express-auth-route": "^1.1.0",
     "http-headers": "^3.0.2",
-    "jsonwebtoken": "latest",
+    "jsonwebtoken": "^8.1.1",
     "mongodb": "^3.0.2",
     "mongoose": "^4.13.11",
     "request": "^2.83.0"
